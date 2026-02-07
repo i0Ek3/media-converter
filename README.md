@@ -4,7 +4,7 @@
 
 | Home                                                         | Audio                                                        | Video                                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/i0Ek3/media-converter/blob/main/assets/images/home.png) | ![](https://github.com/i0Ek3/media-converter/blob/main/assets/images/audio.png) | ![](https://github.com/i0Ek3/media-converter/blob/main/assets/images/vedio.png) |
+| ![](https://github.com/i0Ek3/media-converter/blob/main/assets/images/home.png) | ![](https://github.com/i0Ek3/media-converter/blob/main/assets/images/audio.png) | ![](https://github.com/i0Ek3/media-converter/blob/main/assets/images/video.png) |
 
 ## Quick Start
 
