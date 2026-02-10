@@ -13,5 +13,15 @@
 ```bash
 $ git clone git@github.com:i0Ek3/media-converter.git
 $ cd media-converter & npm install
-$ yarn dev # then open http://localhost:8000
+$ npm run dev # then open http://localhost:5173
+```
+
+## GitHub Pages
+
+- **Online Demo**: `https://i0Ek3.github.io/media-converter`
+- **Deploy**:
+
+```bash
+# build & deploy to GitHub Pages
+npm run deploy
 ```
