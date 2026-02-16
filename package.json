@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://i0Ek3.github.io/media-converter",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -28,6 +29,5 @@
     "tailwindcss": "^3.4.19",
     "typescript": "^5.2.2",
     "vite": "^5.0.0"
-  },
-  "homepage": "https://i0ek3.github.io/media-converter/"
+  }
 }
